@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481869298056",
+    "firebase_url": "https://pinkcal-29256-default-rtdb.firebaseio.com",
+    "project_id": "pinkcal-29256",
+    "storage_bucket": "pinkcal-29256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481869298056:android:77dc09f1597e6d254c623d",
+        "android_client_info": {
+          "package_name": "com.example.pinkcal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481869298056-mglrvjg8ogkpka9hfarotth5lhasu509.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaUb-LtgFj7WzVhyTWIe5MFmPuo6CeaJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481869298056-mglrvjg8ogkpka9hfarotth5lhasu509.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
